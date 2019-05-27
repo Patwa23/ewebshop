@@ -17,7 +17,7 @@
 	<modules>
 		<module>configclient</module>
 		<module>configserver</module>
-		<module>secureservice</module>
+		<module>secure-resource-server</module>
 	</modules>
 
 	<build>

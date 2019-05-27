@@ -1,0 +1,8 @@
+encrypt:
+  key: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+spring:
+  cloud:
+    config:
+      server:
+        encrypt:
+          enabled: false
